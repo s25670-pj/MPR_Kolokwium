@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pl.pjwstk.s25670Bank.S25670BankApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.337 s - in pl.pjwstk.s25670Bank.S25670BankApplicationTests
